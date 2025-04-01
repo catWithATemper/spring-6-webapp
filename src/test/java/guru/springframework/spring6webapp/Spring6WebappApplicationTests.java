@@ -9,5 +9,4 @@ class Spring6WebappApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
